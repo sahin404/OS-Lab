@@ -1,6 +1,21 @@
-//First Come First Serve (FCFS)
-//Mode: FIFO (First in First Out)
-//Non Preemptive
+/*
+THIS PROGRAM ONLY PROVIDES THE GANTT CHART.
+
+First Come First Serve (FCFS)
+Mode: FIFO (First in First Out)
+Non Preemptive
+
+Input Sample:
+3
+0 18
+1 3
+2 3
+
+Output:
+0 p1 18 p2 21 p3 24 
+
+
+*/
 
 #include<bits/stdc++.h>
 using namespace std;
